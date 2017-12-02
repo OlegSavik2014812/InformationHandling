@@ -1,0 +1,74 @@
+2017-12-02 20:12:38 [main] INFO  by.epam.handling.impl.TextHandler - 
+	i=56,00 j=42,00 . 
+	It has survived - not only five centuries, but also the leap into 70,00 electronictypesetting, remaining 8,00, essentially 15,00 unchanged. 
+It waspopularised in the -365085,00 with the release of Letraset sheetscontaining Lorem Ipsum passages, and more recently with desktop publishing softwarelike Aldus PageMaker including versions of Lorem Ipsum. 
+	It is a long -31,00 established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. 
+The point of using 31751,20 Ipsum is that it has a more-or-less normal distribution of letters, asopposed to using Content here, content here, making it look like readable English. 
+	It is a -2400,00 established fact that a reader will be of a pagewhen looking at its layout. 
+	Bye. 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.handling.impl.TextHandler - 
+	i=56,00 j=42,00 . 
+	It has survived - not only five centuries, but also the leap into 70,00 electronictypesetting, remaining 8,00, essentially 15,00 unchanged. 
+It waspopularised in the -365085,00 with the release of Letraset sheetscontaining Lorem Ipsum passages, and more recently with desktop publishing softwarelike Aldus PageMaker including versions of Lorem Ipsum. 
+	It is a long -31,00 established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. 
+The point of using 31751,20 Ipsum is that it has a more-or-less normal distribution of letters, asopposed to using Content here, content here, making it look like readable English. 
+	It is a -2400,00 established fact that a reader will be of a pagewhen looking at its layout. 
+	Bye. 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.handling.impl.TextHandler - 
+	i=56,00 j=42,00 . 
+	It has survived - not only five centuries, but also the leap into 70,00 electronictypesetting, remaining 8,00, essentially 15,00 unchanged. 
+It waspopularised in the -365085,00 with the release of Letraset sheetscontaining Lorem Ipsum passages, and more recently with desktop publishing softwarelike Aldus PageMaker including versions of Lorem Ipsum. 
+	It is a long -31,00 established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. 
+The point of using 31751,20 Ipsum is that it has a more-or-less normal distribution of letters, asopposed to using Content here, content here, making it look like readable English. 
+	It is a -2400,00 established fact that a reader will be of a pagewhen looking at its layout. 
+	Bye. 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.changer.LexemeChanger - . j=42,00 i=56,00 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.changer.LexemeChanger - unchanged. has survived - not only five centuries, but also the leap into 70,00 electronictypesetting, remaining 8,00, essentially 15,00 It 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.changer.LexemeChanger - Ipsum. waspopularised in the -365085,00 with the release of Letraset sheetscontaining Lorem Ipsum passages, and more recently with desktop publishing softwarelike Aldus PageMaker including versions of Lorem It 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.changer.LexemeChanger - layout. is a long -31,00 established fact that a reader will be distracted by the readablecontent of a page when looking at its It 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.changer.LexemeChanger - English. point of using 31751,20 Ipsum is that it has a more-or-less normal distribution of letters, asopposed to using Content here, content here, making it look like readable The 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.changer.LexemeChanger - layout. is a -2400,00 established fact that a reader will be of a pagewhen looking at its It 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.handling.impl.TextHandler - 
+	i=56,00 j=42,00 . 
+	It has survived - not only five centuries, but also the leap into 70,00 electronictypesetting, remaining 8,00, essentially 15,00 unchanged. 
+It waspopularised in the -365085,00 with the release of Letraset sheetscontaining Lorem Ipsum passages, and more recently with desktop publishing softwarelike Aldus PageMaker including versions of Lorem Ipsum. 
+	It is a long -31,00 established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. 
+The point of using 31751,20 Ipsum is that it has a more-or-less normal distribution of letters, asopposed to using Content here, content here, making it look like readable English. 
+	It is a -2400,00 established fact that a reader will be of a pagewhen looking at its layout. 
+	Bye. 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.counter.SentenceCounter - 
+Quantity of sentences with similar lexemes is 4
+
+2017-12-02 20:12:38 [main] INFO  by.epam.handling.impl.TextHandler - 
+	i=56,00 j=42,00 . 
+	It has survived - not only five centuries, but also the leap into 70,00 electronictypesetting, remaining 8,00, essentially 15,00 unchanged. 
+It waspopularised in the -365085,00 with the release of Letraset sheetscontaining Lorem Ipsum passages, and more recently with desktop publishing softwarelike Aldus PageMaker including versions of Lorem Ipsum. 
+	It is a long -31,00 established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. 
+The point of using 31751,20 Ipsum is that it has a more-or-less normal distribution of letters, asopposed to using Content here, content here, making it look like readable English. 
+	It is a -2400,00 established fact that a reader will be of a pagewhen looking at its layout. 
+	Bye. 
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.sorter.SentenceSorter - Bye. [quantity of lexemes is 1]
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.sorter.SentenceSorter - i=56,00 j=42,00 . [quantity of lexemes is 3]
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.sorter.SentenceSorter - It is a -2400,00 established fact that a reader will be of a pagewhen looking at its layout. [quantity of lexemes is 18]
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.sorter.SentenceSorter - It has survived - not only five centuries, but also the leap into 70,00 electronictypesetting, remaining 8,00, essentially 15,00 unchanged. [quantity of lexemes is 20]
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.sorter.SentenceSorter - It is a long -31,00 established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. [quantity of lexemes is 24]
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.sorter.SentenceSorter - It waspopularised in the -365085,00 with the release of Letraset sheetscontaining Lorem Ipsum passages, and more recently with desktop publishing softwarelike Aldus PageMaker including versions of Lorem Ipsum. [quantity of lexemes is 28]
+
+2017-12-02 20:12:38 [main] INFO  by.epam.service.sorter.SentenceSorter - The point of using 31751,20 Ipsum is that it has a more-or-less normal distribution of letters, asopposed to using Content here, content here, making it look like readable English. [quantity of lexemes is 29]
+

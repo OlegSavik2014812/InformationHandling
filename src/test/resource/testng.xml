@@ -1,0 +1,63 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="main-suite">
+    <test name="TextHandlerTest">
+        <classes>
+            <class name="by.epam.handling.impl.TextHandlerTest"/>
+        </classes>
+    </test>
+    <test name="ParagraphHandlerTest">
+        <classes>
+            <class name="by.epam.handling.impl.ParagraphHandlerTest"/>
+        </classes>
+    </test>
+    <test name="SentenceHandlerTest">
+        <classes>
+            <class name="by.epam.handling.impl.SentenceHandlerTest"/>
+        </classes>
+    </test>
+    <test name="LexemeHandlerTest">
+        <classes>
+            <class name="by.epam.handling.impl.LexemeHandlerTest"/>
+        </classes>
+    </test>
+    <test name="ConverterTest">
+        <classes>
+            <class name="by.epam.conversion.ExpressionConverterTest"/>
+        </classes>
+    </test>
+    <test name="InfoReaderTest">
+        <classes>
+            <class name="by.epam.inforeader.TextReaderTest"/>
+        </classes>
+    </test>
+    <test name="InterpreterTest">
+        <classes>
+            <class name="by.epam.interpreter.InterpreterTest"/>
+        </classes>
+    </test>
+    <test name="ParsingTest">
+        <classes>
+            <class name="by.epam.parsing.ComponentParserTest"/>
+        </classes>
+    </test>
+    <test name="FileUtilsTest">
+        <classes>
+            <class name="by.epam.util.FileUtilsTest"/>
+        </classes>
+    </test>
+    <test name="LexemeChangerTest">
+        <classes>
+            <class name="by.epam.service.changer.LexemeChangerTest"/>
+        </classes>
+    </test>
+    <test name="SentenceCounterTest">
+        <classes>
+            <class name="by.epam.service.counter.SentenceCounterTest"/>
+        </classes>
+    </test>
+    <test name="SentenceSorterTest">
+        <classes>
+            <class name="by.epam.service.sorter.SentenceSorterTest"/>
+        </classes>
+    </test>
+</suite>
